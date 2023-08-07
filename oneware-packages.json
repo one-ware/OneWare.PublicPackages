@@ -1,9 +1,12 @@
 {
   "packages": [
     {
+      "type": "binary",
       "name": "GHDL",
       "id": "ghdl",
       "license": "MIT",
+      "licenseUrl": "https://github.com/ghdl/ghdl/blob/master/doc/licenses.rst",
+      "iconUrl": "https://ghdl.github.io/ghdl/_static/logo.png",
       "versions": [
         {
           "version": "3.0.0",
