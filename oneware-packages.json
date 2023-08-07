@@ -7,18 +7,18 @@
       "versions": [
         {
           "version": "3.0.0",
-          "binaries": [
+          "targets": [
             {
               "target": "osx-x64",
-              "download": "https://github.com/ghdl/ghdl/releases/download/v3.0.0/ghdl-macos-11-mcode.tgz"
+              "url": "https://github.com/ghdl/ghdl/releases/download/v3.0.0/ghdl-macos-11-mcode.tgz"
             },
             {
               "target": "win-x64",
-              "download": "https://github.com/ghdl/ghdl/releases/download/v3.0.0/ghdl-MINGW32.zip"
+              "url": "https://github.com/ghdl/ghdl/releases/download/v3.0.0/ghdl-MINGW32.zip"
             },
             {
               "target": "linux-x64",
-              "download": "https://github.com/ghdl/ghdl/releases/download/v3.0.0/ghdl-gha-ubuntu-20.04-mcode.tgz"
+              "url": "https://github.com/ghdl/ghdl/releases/download/v3.0.0/ghdl-gha-ubuntu-20.04-mcode.tgz"
             }
           ]
         }
