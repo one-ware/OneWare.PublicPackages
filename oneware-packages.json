@@ -1,20 +1,28 @@
 {
-    "packages":
-    [
+  "packages": [
+    {
+      "name": "GHDL",
+      "id": "ghdl",
+      "license": "MIT",
+      "versions": [
         {
-            "name": "GHDL",
-            "id": "ghdl",
-            "license": "-",
-            "binaries":
-            [
-                {
-                    "platform": "osx-x64",
-                    "download": "http://cdn.vhdplus.com/ghdl/ghdl-mac-1.0.0.0.zip"
-                }
-            ]
-        },
-        {
-
+          "version": "3.0.0",
+          "binaries": [
+            {
+              "target": "osx-x64",
+              "download": "https://github.com/ghdl/ghdl/releases/download/v3.0.0/ghdl-macos-11-mcode.tgz"
+            },
+            {
+              "target": "win-x64",
+              "download": "https://github.com/ghdl/ghdl/releases/download/v3.0.0/ghdl-MINGW32.zip"
+            },
+            {
+              "target": "linux-x64",
+              "download": "https://github.com/ghdl/ghdl/releases/download/v3.0.0/ghdl-gha-ubuntu-20.04-mcode.tgz"
+            }
+          ]
         }
-    ]
+      ]
+    }
+  ]
 }
