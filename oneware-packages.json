@@ -1,15 +1,23 @@
 {
   "packages": [
     {
-      "categorie": "simulators",
-      "name": "GHDL",
-      "id": "ghdl",
+      "categorie": "Simulators",
+      "name": "GHDL Extension",
+      "id": "GhdlModule",
+      "description": "GHDL Integration for OneWare",
+      "readmeUrl": "https://raw.githubusercontent.com/ProtopSolutions/OneWare.GhdlExtension/master/README.md",
       "license": "MIT",
       "licenseUrl": "https://github.com/ghdl/ghdl/blob/master/doc/licenses.rst",
       "iconUrl": "https://ghdl.github.io/ghdl/_static/logo.png",
       "versions": [
         {
           "version": "0.12.0.2",
+          "dependencies": [
+            {
+                "name": "OneWare.Core",
+                "version": "0.12.0.2",
+            }
+          ],
           "targets": [
             {
               "target": "win-x64",
