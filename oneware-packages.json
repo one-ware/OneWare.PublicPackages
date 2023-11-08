@@ -3,10 +3,6 @@
     {
       "name": "GHDL Extension",
       "manifestUrl": "https://raw.githubusercontent.com/ProtopSolutions/OneWare.GhdlExtension/master/oneware-extension.json"
-    },
-    {
-      "name": "RAFAEL Extension",
-      "manifestUrl": "https://raw.githubusercontent.com/HendrikMennen/RafaelExtension/main/oneware-extension.json"
     }
   ]
 }
