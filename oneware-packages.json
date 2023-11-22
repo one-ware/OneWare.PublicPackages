@@ -3,6 +3,10 @@
     {
       "name": "GHDL Extension",
       "manifestUrl": "https://raw.githubusercontent.com/ProtopSolutions/OneWare.GhdlExtension/master/oneware-extension.json"
+    },
+    {
+      "name": "NetlistSVG Extension",
+      "manifestUrl": "https://raw.githubusercontent.com/ProtopSolutions/OneWare.NetlistSVG/main/oneware-extension.json"
     }
   ]
 }
