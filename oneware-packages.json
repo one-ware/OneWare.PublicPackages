@@ -13,7 +13,7 @@
       "manifestUrl": "https://raw.githubusercontent.com/ProtopSolutions/OneWare.AI/main/oneware-extension.json"
     },
     {
-      "name": "VHDP Suppor",
+      "name": "VHDP Support",
       "manifestUrl": "https://raw.githubusercontent.com/ProtopSolutions/OneWare.Vhdp/main/oneware-extension.json"
     }
   ]
