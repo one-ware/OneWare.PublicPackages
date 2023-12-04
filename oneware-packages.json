@@ -11,6 +11,10 @@
     {
       "name": "AI Extension",
       "manifestUrl": "https://raw.githubusercontent.com/ProtopSolutions/OneWare.AI/main/oneware-extension.json"
+    },
+    {
+      "name": "VHDP Suppor",
+      "manifestUrl": "https://raw.githubusercontent.com/ProtopSolutions/OneWare.Vhdp/main/oneware-extension.json"
     }
   ]
 }
