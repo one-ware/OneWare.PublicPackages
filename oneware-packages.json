@@ -11,6 +11,9 @@
     {
       "name": "VHDP Support",
       "manifestUrl": "https://raw.githubusercontent.com/ProtopSolutions/OneWare.Vhdp/main/oneware-extension.json"
-    }
+    },
+    {
+      "name": "Quartus Extension",
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.Quartus/main/oneware-extension.json"
   ]
 }
