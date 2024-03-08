@@ -15,5 +15,6 @@
     {
       "name": "Quartus Extension",
       "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.Quartus/main/oneware-extension.json"
+    }
   ]
 }
