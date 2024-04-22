@@ -15,10 +15,6 @@
     {
       "name": "Quartus Extension",
       "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.Quartus/main/oneware-extension.json"
-    },
-    {
-      "name": "AI Extension",
-      "manifestUrl": "https://raw.githubusercontent.com/ProtopSolutions/OneWare.AI/main/oneware-extension.json"
-    },
+    }
   ]
 }
