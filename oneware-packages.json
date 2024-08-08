@@ -1,13 +1,13 @@
 {
   "packages": [
     {
-      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.GhdlExtension/0.8.0/oneware-extension.json"
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.GhdlExtension/0.10.0/oneware-extension.json"
     },
     {
       "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.NetlistSVG/0.6.0/oneware-extension.json"
     },
     {
-      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.Quartus/0.10.0/oneware-extension.json"
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.Quartus/0.8.0/oneware-extension.json"
     },
     {
       "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.Max1000/main/oneware-package.json"
