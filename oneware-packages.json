@@ -15,6 +15,10 @@
     {
       "name": "Quartus Extension",
       "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.Quartus/main/oneware-extension.json"
+    },
+    {
+      "name": "Max1000 Support",
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.Max1000/main/oneware.json"
     }
   ]
 }
