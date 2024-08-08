@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "GHDL Extension",
-      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.GhdlExtension/0.9.3/oneware-extension.json"
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.GhdlExtension/0.9.8/oneware-extension.json"
     },
     {
       "name": "NetlistSVG Extension",
