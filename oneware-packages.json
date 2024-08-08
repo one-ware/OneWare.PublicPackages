@@ -1,24 +1,22 @@
 {
   "packages": [
     {
-      "name": "GHDL Extension",
-      "manifestUrl": "https://raw.githubusercontent.com/ProtopSolutions/OneWare.GhdlExtension/master/oneware-extension.json"
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.GhdlExtension/master/oneware-extension.json"
     },
     {
-      "name": "NetlistSVG Extension",
-      "manifestUrl": "https://raw.githubusercontent.com/ProtopSolutions/OneWare.NetlistSVG/main/oneware-extension.json"
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.NetlistSVG/main/oneware-extension.json"
     },
     {
-      "name": "VHDP Support",
-      "manifestUrl": "https://raw.githubusercontent.com/ProtopSolutions/OneWare.Vhdp/main/oneware-extension.json"
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.Vhdp/main/oneware-extension.json"
     },
     {
-      "name": "Quartus Extension",
       "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.Quartus/main/oneware-extension.json"
     },
     {
-      "name": "Max1000 Support",
       "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.Max1000/main/oneware-package.json"
+    },
+    {
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.IceBreaker/main/oneware-package.json"
     }
   ]
 }
