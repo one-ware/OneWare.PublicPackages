@@ -14,6 +14,9 @@
     },
     {
       "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.IceBreaker/main/oneware-package.json"
+    },
+    {
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.CoreMax10/main/oneware-package.json"
     }
   ]
 }
