@@ -1,20 +1,22 @@
 {
   "packages": [
     {
-      "name": "GHDL Extension",
-      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.GhdlExtension/0.9.8/oneware-extension.json"
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.GhdlExtension/0.10.0/oneware-extension.json"
     },
     {
-      "name": "NetlistSVG Extension",
-      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.NetlistSVG/0.5.2/oneware-extension.json"
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.NetlistSVG/0.6.0/oneware-extension.json"
     },
     {
-      "name": "VHDP Support",
-      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.Vhdp/0.4.4/oneware-extension.json"
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.Quartus/0.8.0/oneware-extension.json"
     },
     {
-      "name": "Quartus Extension",
-      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.Quartus/0.8.3/oneware-extension.json"
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.Max1000/main/oneware-package.json"
+    },
+    {
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.IceBreaker/main/oneware-package.json"
+    },
+    {
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.CoreMax10/main/oneware-package.json"
     }
   ]
 }
