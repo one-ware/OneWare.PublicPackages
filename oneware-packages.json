@@ -23,6 +23,9 @@
     },
     {
       "manifestUrl": "https://raw.githubusercontent.com/swittlich/OneWare.GateMate/main/oneware-package.json"
+    },
+    {
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.CameraExtension/main/oneware-package.json"
     }
   ]
 }
