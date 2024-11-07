@@ -2,30 +2,6 @@
   "packages": [
     {
       "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.GhdlExtension/master/oneware-extension.json"
-    },
-    {
-      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.NetlistSVG/main/oneware-extension.json"
-    },
-    {
-      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.Quartus/main/oneware-extension.json"
-    },
-    {
-      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.Max1000/main/oneware-package.json"
-    },
-    {
-      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.IceBreaker/main/oneware-package.json"
-    },
-    {
-      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.CoreMax10/main/oneware-package.json"
-    },
-    {
-      "manifestUrl": "https://raw.githubusercontent.com/swittlich/OneWare.CC-Toolchain/main/oneware-extension.json"
-    },
-    {
-      "manifestUrl": "https://raw.githubusercontent.com/swittlich/OneWare.GateMate/main/oneware-package.json"
-    },
-    {
-      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.CameraExtension/main/oneware-package.json"
     }
   ]
 }
