@@ -19,7 +19,7 @@
       "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.CoreMax10/main/oneware-package.json"
     },
     {
-      "manifestUrl": "https://raw.githubusercontent.com/swittlich/OneWare.CC-Toolchain/main/oneware-extension.json"
+      "manifestUrl": "https://raw.githubusercontent.com/swittlich/OneWare.CC-Toolchain/0.3/oneware-extension.json"
     },
     {
       "manifestUrl": "https://raw.githubusercontent.com/swittlich/OneWare.GateMate/main/oneware-package.json"
