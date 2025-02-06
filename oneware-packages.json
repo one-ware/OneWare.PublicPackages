@@ -28,6 +28,9 @@
       "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.CameraExtension/main/oneware-package.json"
     },
     {
+      "manifestUrl": "https://raw.githubusercontent.com/timonix/OneWare.PslExtension/main/oneware-extension.json"
+    },
+    {
       "manifestUrl": "https://raw.githubusercontent.com/peterb12/OneWare.NandlandGo/main/oneware-package.json"
     }
   ]
