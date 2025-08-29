@@ -1,6 +1,9 @@
 {
   "packages": [
     {
+      "manifestUrl": "https://cdn.one-ware.com/oneaiextension/oneware-extension.json"
+    },
+    {
       "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.GhdlExtension/master/oneware-extension.json"
     },
     {
