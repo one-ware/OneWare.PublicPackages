@@ -47,6 +47,21 @@
     },
     {
       "manifestUrl": "https://raw.githubusercontent.com/FEntwumS/FEntwumS.NetlistViewer/refs/heads/master/oneware-extension.json"
+    },
+    {
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI.STM32N6x5/refs/heads/main/oneware-package.json"
+    },
+    {
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI.STM32N6x7/refs/heads/main/oneware-package.json"
+    },
+    {
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI.NXP_MCXNx4x/refs/heads/main/oneware-package.json"
+    },
+    {
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI.Altera_Agilex3/refs/heads/main/oneware-package.json"
+    },
+    {
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI.Altera_Max10/refs/heads/main/oneware-package.json"
     }
   ]
 }
