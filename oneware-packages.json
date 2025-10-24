@@ -62,6 +62,9 @@
     },
     {
       "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI.Altera_Max10/refs/heads/main/oneware-package.json"
+    },
+    {
+      "manifestUrl": "https://raw.githubusercontent.com/FEntwumS/ICEDuino/refs/heads/main/oneware-package.json"
     }
   ]
 }
