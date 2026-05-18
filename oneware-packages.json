@@ -25,6 +25,9 @@
       "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.Axe5000/main/oneware-package.json"
     },
     {
+      "manifestUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AXC3000/main/oneware-package.json"
+    },
+    {
       "manifestUrl": "https://raw.githubusercontent.com/swittlich/OneWare.CC-Toolchain/main/oneware-extension.json"
     },
     {
