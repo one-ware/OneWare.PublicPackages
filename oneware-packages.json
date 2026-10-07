@@ -77,6 +77,9 @@
     },
     {
       "manifestUrl": "https://raw.githubusercontent.com/FEntwumS/ICEDuino/refs/heads/main/oneware-package.json"
+    },
+    {
+      "manifestUrl": "https://raw.githubusercontent.com/FEntwumS/FEntwumS.ContainerExtension/refs/heads/main/oneware-extension.json"
     }
   ]
 }
